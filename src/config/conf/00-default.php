@@ -13,8 +13,8 @@ return [
 	'LIBRESIGNAGE_DEBUG'    => FALSE,
 
 	// Default admin contact info.
-	'ADMIN_EMAIL'           => "Example Admin",
-	'ADMIN_NAME'            => "admin@example.com",
+	'ADMIN_EMAIL'           => "Berwick Marketing",
+	'ADMIN_NAME'            => "marketing.berwick@sjog.org.au",
 
 	/*
 	*  Paths relative to document root. Do not make these absolute
