@@ -9,7 +9,7 @@ return [
 	"SLIDE_MIN_DURATION"       => 1*1000,
 
 	// Maximum slide duration in milliseconds.
-	"SLIDE_MAX_DURATION"       => 40*1000,
+	"SLIDE_MAX_DURATION"       => 120*1000,
 
 	// Maximum slide index.
 	"SLIDE_MAX_INDEX"          => 65536,
