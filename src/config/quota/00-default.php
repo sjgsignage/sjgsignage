@@ -7,7 +7,7 @@
 return [
 	// Quota for the maximum number of slides per user.
 	'slides' => [
-		'limit' => 10,
+		'limit' => 1000,
 		'description' => 'Slides'
 	],
 
@@ -15,7 +15,7 @@ return [
 	// is calls/60s by default. You can find the API_RATE_T constant
 	// in the config file, although you probably don't want to change it.
 	'api_rate' => [
-		'limit' => 500,
+		'limit' => 5000,
 		'description' => 'API rate quota'
 	]
 ];
